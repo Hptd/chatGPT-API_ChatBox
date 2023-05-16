@@ -15,3 +15,8 @@
 
 1. python文件会调用电脑的默认浏览器并渲染html前端文件；
 2. 做到和chatGPT几乎相同的对话场景，但是效果不如plus；
+
+## 效果图展示：
+
+![image](https://github.com/Hptd/chatGPT-API_ChatBox/assets/82070210/f6065d87-cd50-4294-b216-89c6bbca2b5c)
+
